@@ -1,3 +1,3 @@
 # bible365
-- [pages/01.md](Wem (ge)hörst du?)
+1. [Tag 1: Wozu?](pages/001.md)
 
